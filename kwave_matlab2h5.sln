@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kwave_matlab2h5", "PythonApplication4\kwave_matlab2h5.pyproj", "{D8CE757E-100F-47E5-B953-76BE9D72E0E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8CE757E-100F-47E5-B953-76BE9D72E0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CE757E-100F-47E5-B953-76BE9D72E0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {744F47CD-3EEB-4026-B9B6-11E4A5EE2BCA}
+	EndGlobalSection
+EndGlobal
